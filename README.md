@@ -1,2 +1,0 @@
-# DevOps-ultimatePipeline
-DevOps-ultimatePipeline
